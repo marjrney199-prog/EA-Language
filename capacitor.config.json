@@ -14,5 +14,6 @@
 		"Keyboard": {
 			"resize": "body"
 		}
-	}
+	},
+	"packageClassList": []
 }
